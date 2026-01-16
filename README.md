@@ -1,3 +1,3 @@
-#Music Database App
+# Music Database App
 
 This project is a JavaFX GUI application that connects to a SQL Server database to manage albums and their songs. It provides a login dialog for database authentication and uses JavaFX components such as ListView, TableView, Dialogs, and FXML/Scene Graph for an intuitive interface. Users can browse albums, view their songs, perform searches, and add, edit, or delete albums and songs with confirmation prompts. Database operations are handled through JDBC, ensuring secure and reliable CRUD functionality. The application builds on the console-based version from Task 3 and enhances usability through a structured, user-friendly GUI.
